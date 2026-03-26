@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-using-SQL
+# Sales Data Analysis using SQL
 Analyzed structured datasets using SQL queries (joins, aggregations, subqueries) .Extracted meaningful insights such as customer trends and sales performance Improved query performance using indexing and optimization techniques
 <img width="1202" height="1002" alt="image" src="https://github.com/user-attachments/assets/6fc6ef8b-5c61-4f15-a068-cb6b4b601628" />
 
@@ -19,18 +19,18 @@ price → Price per unit
 order_date → Date of purchase
 
 
-Tools & Technologies Used
+Tools & Technologies:
 SQL (MySQL / PostgreSQL)
 Database concepts (DDL, DML)
 Query optimization basics
 
-Project Workflow
+Project Workflow:
 Created database and table using SQL
 Inserted structured sales data
 Performed data analysis using SQL queries
 Generated insights using aggregation and grouping
 
-Key SQL Operations Used
+Key SQL Operations Used:
 SELECT
 GROUP BY
 ORDER BY
@@ -44,10 +44,10 @@ AVG()
 
 <img width="1212" height="1006" alt="image" src="https://github.com/user-attachments/assets/b430730d-00c3-437d-b36d-4ac673cf2b11" />
 
-Future Improvements
-Add larger dataset
-Use JOIN operations with multiple tables
-Implement window functions
+Future Improvements :
+Add larger dataset,
+Use JOIN operations with multiple tables,
+Implement window functions,
 Connect with Power BI for visualization
 
 
