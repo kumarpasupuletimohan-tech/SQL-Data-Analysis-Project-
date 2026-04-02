@@ -44,6 +44,13 @@ AVG()
 
 <img width="1212" height="1006" alt="image" src="https://github.com/user-attachments/assets/b430730d-00c3-437d-b36d-4ac673cf2b11" />
 
+
+
+
+<img width="1536" height="1024" alt="file_00000000484c7208965c6e6969e3c51b" src="https://github.com/user-attachments/assets/ecbd1c10-4eb2-414c-90d8-85e8a7a00805" />
+
+
+
 Future Improvements :
 Add larger dataset,
 Use JOIN operations with multiple tables,
